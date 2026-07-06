@@ -1,5 +1,5 @@
 version: STSv1
 mode: testing
-hollandparkcomputers-com.mail.protection.outlook.com
+mx: hollandparkcomputers-com.mail.protection.outlook.com
 max_age: 86400
 
