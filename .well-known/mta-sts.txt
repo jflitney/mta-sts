@@ -1,4 +1,5 @@
 version: STSv1
 mode: enforce
-max_age: 2419200
 mx: hollandparkcomputers-com.mail.protection.outlook.com
+mx: hollandparkcomputers-com.m-v1.mx.microsoft
+max_age: 86400
